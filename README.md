@@ -26,3 +26,20 @@
 13. [LexML Brasil](https://www.lexml.gov.br/)
 14. [Portal de Periódicos da CAPES](https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php?)
 15. [Jurisprudência TST ](https://jurisprudencia.tst.jus.br/)
+
+---    
+## Fontes :
+1. [RAG using bert-base and mistral-base](https://www.kaggle.com/code/ttminh27/rag-using-bert-base-and-mistral-base)
+2. [Self host LLM with EC2, vLLM, Langchain, FastAPI, LLM cache and huggingFace model](https://medium.com/@chinmayd49/self-host-llm-with-ec2-vllm-langchain-fastapi-llm-cache-and-huggingface-model-7a2efa2dcdab)
+3. [NLP • Retrieval Augmented Generation](https://aman.ai/primers/ai/RAG/)
+4. [RAG: Retrieval-Augmented Generation In Advancing LLMs](https://medium.com/@kagglepro.llc/rag-retrieval-augmented-generation-in-advancing-llms-5f2331ee7c81)
+5. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+6. [15 Bases de dados de Direito com acesso gratuito](https://regrasparatcc.com.br/bases-de-dados/15-bases-de-dados-de-direito-com-acesso-gratuito/)
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. 
