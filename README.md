@@ -2,7 +2,7 @@
 
 ## Plataforma Conversacional Confiável Informacional e de apoio a Denúncias de Assédio e Discriminação no ambiente organizacional 
 
-![arc](imgs/thraba-lhista-bot.png)
+![arc](imgs/thraba-lhista-bot-b.png)
 
 ### Conteúdos uteis
 1. ``` https://youtu.be/4G6MlUxh3q8 ```
