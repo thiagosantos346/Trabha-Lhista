@@ -11,6 +11,7 @@ Conta com a seguites features implementadas:
 5. Simulação de integração a denuncias.
 6. Respostas focadas em assédio e descriminação no trabalho.
 
+## Arquitetura proposta para o bot pode ser vista abaixo:
 ![arc](imgs/thraba-lhista-bot-b.png)
 
 ### Conteúdos uteis
