@@ -8,8 +8,10 @@ Conta com a seguites features implementadas:
 2. Saudações de boas vindas.
 3. Menssagens padrões de encerramento.
 4. Detecção de caso para denuncias.
-5. Simulação de integração a denuncias.
-6. Respostas focadas em assédio e descriminação no trabalho.
+    ![image](https://github.com/user-attachments/assets/3dcef14e-f382-4602-8c24-283fd2ace672)
+
+6. Simulação de integração a denuncias.
+7. Respostas focadas em assédio e descriminação no trabalho.
 
 ## Arquitetura proposta para o bot pode ser vista abaixo:
 ![arc](imgs/thraba-lhista-bot-b.png)
