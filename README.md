@@ -34,6 +34,11 @@ Conta com a seguites features implementadas:
 ## Roadmap Proposto
 ![Roadmap Planning Whiteboard](https://github.com/user-attachments/assets/629be655-aaa7-45a6-b147-e716ebc1ab22)
 
+# Veja os documentos do projeto :
+
+1. [Arquitetura de Negócio - Traba-Lhista](https://github.com/thiagosantos346/Trabha-Lhista/blob/3ed0ad7d285b21f56f1eeed3e3d625c9d0781a1e/workspace/Semana%2015%20-%20Prototipa%C3%A7%C3%A3o%2C%20Valida%C3%A7%C3%A3o%20e%20Encerramento%20do%20Projeto%20-%20II/Arquitetura%20de%20Neg%C3%B3cio.pdf)
+2. [Proposta para DAO do Bot Thraba-Listha]()
+
 ## Base de dados que devem ser utililizadas no RAG: 
 1. [Biblioteca Digital da Câmara dos Deputados](https://bd.camara.leg.br/bd/)
 2. [Biblioteca do Conselho da Justiça Federal](https://www.cjf.jus.br/cjf/biblioteca)
