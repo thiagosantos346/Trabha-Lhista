@@ -37,7 +37,7 @@ Conta com a seguites features implementadas:
 # Veja os documentos do projeto :
 
 1. [Arquitetura de Negócio - Traba-Lhista](https://github.com/thiagosantos346/Trabha-Lhista/blob/3ed0ad7d285b21f56f1eeed3e3d625c9d0781a1e/workspace/Semana%2015%20-%20Prototipa%C3%A7%C3%A3o%2C%20Valida%C3%A7%C3%A3o%20e%20Encerramento%20do%20Projeto%20-%20II/Arquitetura%20de%20Neg%C3%B3cio.pdf)
-2. [Proposta para DAO do Bot Thraba-Listha]()
+2. [Proposta para DAO do Bot Thraba-Listha](https://github.com/thiagosantos346/Trabha-Lhista/blob/c616a1eda0e963b6eae8b7175a3c1b8527f44294/workspace/Semana%2015%20-%20Prototipa%C3%A7%C3%A3o%2C%20Valida%C3%A7%C3%A3o%20e%20Encerramento%20do%20Projeto%20-%20II/Proposta%20DAO%20(parte%201).pdf)
 
 ## Base de dados que devem ser utililizadas no RAG: 
 1. [Biblioteca Digital da Câmara dos Deputados](https://bd.camara.leg.br/bd/)
