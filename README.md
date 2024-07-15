@@ -4,18 +4,18 @@
 
 A prova de conceito do bot, pode ser acessada aqui: [@Traba_Lhistabot](https://t.me/Traba_Lhistabot).
 Conta com a seguites features implementadas:
+
+1. Saudações de boas vindas.
+      ![image](https://github.com/user-attachments/assets/1d5e6b55-2fb8-45af-99e0-b01a855274f4)
 1. Filtro de contexto.
-   ![image](https://github.com/user-attachments/assets/796488b9-720b-4d49-af80-a81df5193d81)
+   ![image](https://github.com/user-attachments/assets/e5954c2a-b5dc-4b26-a06a-e717b09d1bfc)
+1. Respostas focadas em assédio e descriminação no trabalho.
 
-3. Saudações de boas vindas.
-   ![image](https://github.com/user-attachments/assets/543653f8-9a2e-4136-8cf6-6d3568a3d9d9)
 
-5. Menssagens padrões de encerramento.
-6. Detecção de caso para denuncias.
-    ![image](https://github.com/user-attachments/assets/3dcef14e-f382-4602-8c24-283fd2ace672)
+1. Detecção de caso para denuncias.
+    ![image](https://github.com/user-attachments/assets/db59ae0b-7e5e-49d1-b09b-89e71f6e790b)
 
-7. Simulação de integração a denuncias.
-8. Respostas focadas em assédio e descriminação no trabalho.
+1. Simulação de integração a denuncias.
 
 ## Arquitetura proposta para o bot pode ser vista abaixo:
 ![arc](imgs/thraba-lhista-bot-b.png)
