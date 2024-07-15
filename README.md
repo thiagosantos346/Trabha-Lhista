@@ -15,6 +15,10 @@ Conta com a seguites features implementadas:
     ![image](https://github.com/user-attachments/assets/db59ae0b-7e5e-49d1-b09b-89e71f6e790b)
 1. Simulação de integração a denuncias.
    ![image](https://github.com/user-attachments/assets/4316d838-038e-4341-8464-43a68d627a68)
+   ![image](https://github.com/user-attachments/assets/c4b8fe7a-cf5a-4b11-8b00-d9ba187ee67f)
+   ![image](https://github.com/user-attachments/assets/2d4273b2-4b06-4c5d-b9c2-472ded6178ab)
+
+
 
 
 ## Arquitetura proposta para o bot pode ser vista abaixo:
