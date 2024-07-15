@@ -39,7 +39,9 @@ Conta com a seguites features implementadas:
        Responda apenas e apenas com "Não" ou "Sim".
        Relato :  ﻿﻿"<text>"
 ```
-1.
+1. ```
+   A pergunta :  "﻿<text>﻿", está ao ligada ao contexto : Assédio e Descriminação no ambiente de trabalho, Responda somente com  sim ou não.
+   ```
 
 
 
