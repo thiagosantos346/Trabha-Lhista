@@ -1,5 +1,5 @@
 # Trabha-Lhista
-
+--
 ## Plataforma Conversacional Confiável Informacional e de apoio a Denúncias de Assédio e Discriminação no ambiente organizacional 
 
 A prova de conceito do bot, pode ser acessada aqui: [@Traba_Lhistabot](https://t.me/Traba_Lhistabot).
@@ -17,10 +17,7 @@ Conta com a seguites features implementadas:
    ![image](https://github.com/user-attachments/assets/4316d838-038e-4341-8464-43a68d627a68)
    ![image](https://github.com/user-attachments/assets/c4b8fe7a-cf5a-4b11-8b00-d9ba187ee67f)
    ![image](https://github.com/user-attachments/assets/2d4273b2-4b06-4c5d-b9c2-472ded6178ab)
-
-
-
-
+--
 ## Arquitetura proposta para o bot pode ser vista abaixo:
 ![arc](imgs/thraba-lhista-bot-b.png)
 
@@ -34,7 +31,7 @@ Conta com a seguites features implementadas:
 ## Roadmap Proposto
 ![Roadmap Planning Whiteboard](https://github.com/user-attachments/assets/629be655-aaa7-45a6-b147-e716ebc1ab22)
 
-# Veja os documentos do projeto :
+## Veja os documentos do projeto :
 
 1. [Arquitetura Técnica](https://github.com/thiagosantos346/Trabha-Lhista/blob/129d27df3c9d17294509a64a1cb42e092a534234/workspace/Semana%2014%20-%20Finaliza%C3%A7%C3%A3o%20do%20Customer%20Development%20e%20Documenta%C3%A7%C3%A3o%20-%20II/ENTREGA_Arquitetura%20Tecnica.pdf)
 1. [Arquitetura de Negócio - Traba-Lhista](https://github.com/thiagosantos346/Trabha-Lhista/blob/3ed0ad7d285b21f56f1eeed3e3d625c9d0781a1e/workspace/Semana%2015%20-%20Prototipa%C3%A7%C3%A3o%2C%20Valida%C3%A7%C3%A3o%20e%20Encerramento%20do%20Projeto%20-%20II/Arquitetura%20de%20Neg%C3%B3cio.pdf)
