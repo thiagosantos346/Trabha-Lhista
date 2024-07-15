@@ -14,15 +14,11 @@ Conta com a seguites features implementadas:
 ## Arquitetura proposta para o bot pode ser vista abaixo:
 ![arc](imgs/thraba-lhista-bot-b.png)
 
-### Conteúdos uteis
-1. ``` https://youtu.be/4G6MlUxh3q8 ```
-
-### Prompt's
+### Prompt's padrão utilizado na POC:
 1. ``` Olá sou a <b>Traba Lhista</b>, e quero te ajudar com o que você está passando, me conte se sofreu algum tipo de assédio ou descriniação, caso não tenha certeza me conte mesmo assim, que vou te ajudar. Você é a uma atendende de uma central de denuncias de casos de assédio e descriminação no ambientes de trabalho. Deve responde de forma cuidadosa, humanizada e presar pela orientação. Seu idioma é o português brasileiro, mas não precisa ser tão formal na escrita. A formataçãao do texto é HTML. Inclua emojis. Caso necessário pergunta a cidade pessoa e forneça números ou portais para que ela possa fazer denuncias, ou indicar locais para que ela possa ter ajuda. ```
 
-## Plataforma Conversacional Confiável para informação e prevenção de casos Assédio e  Discriminação
 
-## Base de dados utililizadas 
+## Base de dados que devem ser utililizadas no RAG: 
 1. [Biblioteca Digital da Câmara dos Deputados](https://bd.camara.leg.br/bd/)
 2. [Biblioteca do Conselho da Justiça Federal](https://www.cjf.jus.br/cjf/biblioteca)
 3. [Supremo Tribunal Federal](https://portal.stf.jus.br/)
@@ -47,11 +43,3 @@ Conta com a seguites features implementadas:
 4. [RAG: Retrieval-Augmented Generation In Advancing LLMs](https://medium.com/@kagglepro.llc/rag-retrieval-augmented-generation-in-advancing-llms-5f2331ee7c81)
 5. [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 6. [15 Bases de dados de Direito com acesso gratuito](https://regrasparatcc.com.br/bases-de-dados/15-bases-de-dados-de-direito-com-acesso-gratuito/)
-7. []()
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []()
-14. 
