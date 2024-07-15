@@ -2,6 +2,15 @@
 
 ## Plataforma Conversacional Confiável Informacional e de apoio a Denúncias de Assédio e Discriminação no ambiente organizacional 
 
+A prova de conceito do bot, pode ser acessada aqui: [@Traba_Lhistabot](https://t.me/Traba_Lhistabot).
+Conta com a seguites features implementadas:
+1. Filtro de contexto.
+2. Saudações de boas vindas.
+3. Menssagens padrões de encerramento.
+4. Detecção de caso para denuncias.
+5. Simulação de integração a denuncias.
+6. Respostas focadas em assédio e descriminação no trabalho.
+
 ![arc](imgs/thraba-lhista-bot-b.png)
 
 ### Conteúdos uteis
