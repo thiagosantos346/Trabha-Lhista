@@ -31,7 +31,8 @@ Conta com a seguites features implementadas:
    
 1. ```  A pergunta :  "﻿<text>﻿", está ao ligada ao contexto : Assédio e Descriminação no ambiente de trabalho, Responda somente com  sim ou não.  ```
 
-
+## Roadmap Proposto
+![Roadmap Planning Whiteboard](https://github.com/user-attachments/assets/629be655-aaa7-45a6-b147-e716ebc1ab22)
 
 ## Base de dados que devem ser utililizadas no RAG: 
 1. [Biblioteca Digital da Câmara dos Deputados](https://bd.camara.leg.br/bd/)
