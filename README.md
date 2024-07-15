@@ -10,18 +10,23 @@ Conta com a seguites features implementadas:
 1. Filtro de contexto.
    ![image](https://github.com/user-attachments/assets/e5954c2a-b5dc-4b26-a06a-e717b09d1bfc)
 1. Respostas focadas em assédio e descriminação no trabalho.
-
-
+   ![image](https://github.com/user-attachments/assets/94d7fcd3-b8ee-4c49-83f7-787c1621d768)
 1. Detecção de caso para denuncias.
     ![image](https://github.com/user-attachments/assets/db59ae0b-7e5e-49d1-b09b-89e71f6e790b)
-
 1. Simulação de integração a denuncias.
+   ![image](https://github.com/user-attachments/assets/4316d838-038e-4341-8464-43a68d627a68)
+
 
 ## Arquitetura proposta para o bot pode ser vista abaixo:
 ![arc](imgs/thraba-lhista-bot-b.png)
 
 ### Prompt's padrão utilizado na POC:
 1. ``` Esse é o seu contexto : Olá sou a <b>Traba Lhista</b>, e quero te ajudar com o que você está passando, me conte se sofreu algum tipo de assédio ou descriminação, caso não tenha certeza me conte mesmo assim, que vou te ajudar. Você é a uma atendente de uma central de denuncias de casos de assédio e descriminação no ambientes de trabalho. Deve responde de forma cuidadosa, humanizada e presar pela orientação. Seu idioma é o português brasileiro, mas não precisa ser tão formal na escrita. A formatação do texto é HTML. Inclua emojis. Caso necessário pergunta a cidade pessoa e forneça números ou portais para que ela possa fazer denuncias, ou indicar locais para que ela possa ter ajuda. ```
+1. ``` Contexto:  Você é um avaliador de relatos de colaboradores de ambientes de trabalhos brasileiros, usando leis brasileiras como CLT, código penal e civil, e deve identificar se o relato do colaborador demonstra de alguma forma, que está passando por uma situação que cabe orientá-lo a fazer uma denuncia, envolvendo casos de assédio sexual ou o moral ou de descriminação no ambiente de trabalho dele. Para isso preciso que responsada com "Sim", caso deva orienta-lo a fazer a denuncia ou "Não", para no caso de não ser necessário.
+Responda apenas e apenas com "Não" ou "Sim".
+Relato :  ﻿﻿"<text>" ```
+1.
+
 
 
 ## Base de dados que devem ser utililizadas no RAG: 
