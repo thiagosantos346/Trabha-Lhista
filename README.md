@@ -176,7 +176,7 @@ Conta com a seguites features implementadas:
    ![image](https://github.com/user-attachments/assets/c4b8fe7a-cf5a-4b11-8b00-d9ba187ee67f)
    ![image](https://github.com/user-attachments/assets/2d4273b2-4b06-4c5d-b9c2-472ded6178ab)
 ---
-## Arquitetura proposta para o bot pode ser vista abaixo:
+## [https://lucid.app/lucidspark/798a224e-1448-400b-a68e-be716f02c374/edit?viewport_loc=-12686%2C17076%2C20433%2C10189%2C0_0&invitationId=inv_3f87c1da-79c7-4a3b-bc7c-f7b1fef144c4](Arquitetura proposta para o bot pode ser vista abaixo):
 ![arc](imgs/thraba-lhista-bot-b.png)
 
 ### Prompt's padrão utilizado na POC:
