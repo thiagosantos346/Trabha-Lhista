@@ -155,6 +155,7 @@ Dessa forma, este projeto volta os seus esforços para especificar uma solução
    - Google Drive
 
 A prova de conceito do bot, pode ser acessada aqui: [@Traba_Lhistabot](https://t.me/Traba_Lhistabot).
+
 O protótipo de alta fidelidade pode ser visto em : [figma.com](https://www.figma.com/design/ZroIsNOsDlgwzgNM6EQwt5/Trabha_Lhista_bot?node-id=0-1&t=AAyAyp4CdGvY7Fgz-1)
 Conta com a seguites features implementadas:
 
