@@ -1,4 +1,5 @@
 # Trabha-Lhista
+## Veja o relatório completo [aqui](https://github.com/thiagosantos346/Trabha-Lhista/blob/a1b66735b45cdc4f6b9090d50cd503785077850a/workspace/Semana%2016%20-%20Entrega%20Final/Relatorio%20Final%20RT-SI%20-%20Squad%202.pdf)
 ---
 ## Plataforma Conversacional Confiável Informacional e de apoio a Denúncias de Assédio e Discriminação no ambiente organizacional 
 
@@ -55,9 +56,6 @@ Dr. Vagner Jose do Sacramento Rodrigues
       9. Resultados Obtidos
    3. Considerações finais
    4. Referências
-   5. APÊNDICE A – A maneira certa de fazer
-   6. ANEXO A – Como apresentar
-
 
 ### 1. Introdução
 ####  1.1 Objetivo do trabalho
