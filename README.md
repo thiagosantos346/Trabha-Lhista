@@ -143,10 +143,6 @@ Além desse estudo, realizamos também uma entrevista com uma especialista que t
 
 Dessa forma, este projeto volta os seus esforços para especificar uma solução de base tecnológica para apoiar na disseminação de informações relacionadas ao assédio e discriminação no ambiente organizacional, tendo com público alvo colaboradores das organizações e as próprias organizações que possuam interesse em orientar o seu público interno. Com base nos estudos e entrevistas realizadas, e buscando uma inovação na área, a solução escolhida para especificação foi a de um chatbot inteligente, anonimizado, seguro e integrado com ferramentas de chat amplamente difundidas na sociedade. Com esse chatbot, os colaboradores podem tirar suas dúvidas relacionadas a casos específicos de assédio dentro das organizações, entender mais sobre assédio e discriminação, receber informações de forma pró-ativa do chat e conseguir um maior contexto em relação à legislação vigente e ao código de conduta da própria organização.
 
-#### 1.3 Ganhos e benefícios esperados
-
-Em construção...
-
 ---
 ## 2. Desenvolvimento
 
@@ -159,6 +155,7 @@ Em construção...
    - Google Drive
 
 A prova de conceito do bot, pode ser acessada aqui: [@Traba_Lhistabot](https://t.me/Traba_Lhistabot).
+O protótipo de alta fidelidade pode ser visto em : [figma.com](https://www.figma.com/design/ZroIsNOsDlgwzgNM6EQwt5/Trabha_Lhista_bot?node-id=0-1&t=AAyAyp4CdGvY7Fgz-1)
 Conta com a seguites features implementadas:
 
 1. Saudações de boas vindas.
